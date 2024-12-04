@@ -28,4 +28,4 @@ https://github.com/Nobcha/R909-VFO-GPS/blob/main/R909-VFO%3DGPS1602_manual_EN.pd
 この基板を使います。”https://github.com/Nobcha/R909-SDR/blob/main/5531_debugPanel(3).zip”　”https://github.com/Nobcha/R909-SDR/blob/main/5531_debug_panel_scm.pdf”　”https://github.com/Nobcha/R909-SDR/blob/main/5531_debug_panel_bom.pdf”
 
 GPS接続に対応した基板を作成しました。基板製作データをアップロードしました。スケッチや使い方に関するマニュアルを作りました。
-
+https://github.com/Nobcha/R909-VFO-GPS/blob/main/R909-VFO%3DGPS1602_manual_JA.pdf
