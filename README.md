@@ -18,7 +18,10 @@ However there are some issues of this one. ie, rotary encoder responding, gettin
 I renewed the sketch which is the improved SQ1GU's version from "http://sq1gu.tobis.com.pl/pl/syntezery-dds"
 The latest sketch is here. "https://github.com/Nobcha/R909-VFO-GPS/blob/main/Si5351_GPS_kpa.ino"
 
-I designed the PCB for this project. Please find uplarded Gerber files.
+I designed the PCB for this project. Please find uplorded Gerber files.
+
+I wrote the operation and assembling manual as below.
+https://github.com/Nobcha/R909-VFO-GPS/blob/main/R909-VFO%3DGPS1602_manual_EN.pdf
 
 Ｒ９０９と言うのはエアバンド受信機などのＤＩＹシリーズです。Ｒ９０９－ＤＳＰはＡｒｄｕｉｎｏ制御でＳｉ４７３２，Ｓｉ５３５１ａモジュールを使ったエアバンド受信機なのですが、このＶＦＯ部を取り出したものがＲ９０９－ＶＦＯです。Ｒ９０９－ＶＦＯにはＯＬＥＤ表示版と１６０２ＡＬＣＤ表示版があります。今回はこの１６０２ＡＬＣＤ版のＲ９０９－ＶＦＯとＧＰＳモジュールを組み合わせた試作を行いました。”https://github.com/Nobcha/R909-SDR/blob/main/R909-SDR-1602_BD.jpg”
 Ｅ１０８　ＧＮ０２Ｄと言うちょっと旧型のＧＰＳモジュールをつなぎ、緯度経度表示とか、時計機能とか、ＧＰＳデータで周波数較正するR909-VFO-GPSを試作しましたので、ご紹介します。
