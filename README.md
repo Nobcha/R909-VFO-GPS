@@ -1,5 +1,5 @@
 # R909-VFO-GPS
-
+![IMG_20241101_234339311](https://github.com/user-attachments/assets/71818051-c0b9-42c9-ab12-62a19e0f58e6)
 I would like to study GPS module. So I will divert R909-VFO-1602 PCB for the trial base for this GPS corrected VFO.
 
 At first I connected the GPS via SoftwareSerial and show the longtituse and latitude on the 1602 LCD. 
