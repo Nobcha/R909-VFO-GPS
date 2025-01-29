@@ -35,6 +35,7 @@ https://github.com/Nobcha/R909-VFO-GPS/blob/main/R909-VFO%3DGPS1602_manual_EN.pd
 
 https://github.com/user-attachments/assets/a366d376-8fa3-4aea-8705-ed7749ec5e32
 
+I have updated the sketch as https://github.com/Nobcha/R909-VFO-GPS/blob/main/Si5351_GPS_1602.ino.
 
 Ｒ９０９と言うのはエアバンド受信機などのＤＩＹシリーズです。Ｒ９０９－ＤＳＰはＡｒｄｕｉｎｏ制御でＳｉ４７３２，Ｓｉ５３５１ａモジュールを使ったエアバンド受信機なのですが、このＶＦＯ部を取り出したものがＲ９０９－ＶＦＯです。Ｒ９０９－ＶＦＯにはＯＬＥＤ表示版と１６０２ＡＬＣＤ表示版があります。今回はこの１６０２ＡＬＣＤ版のＲ９０９－ＶＦＯとＧＰＳモジュールを組み合わせた試作を行いました。
 
@@ -52,3 +53,5 @@ https://github.com/Nobcha/R909-SDR/blob/main/5531_debug_panel_bom.pdf
 GPS接続に対応した基板を作成しました。基板製作データをアップロードしました。スケッチや使い方に関するマニュアルを作りました。
 
 https://github.com/Nobcha/R909-VFO-GPS/blob/main/R909-VFO%3DGPS1602_manual_JA.pdf
+
+スケッチを更新しました。グリッドロケータ表示、SW1-4追加などです。
